@@ -1,0 +1,38 @@
+2025-02-08 18:13:27,034 - MatrixReducer - INFO - [32mGPU Memory: 3.23GB free / 4.00GB total[0m
+2025-02-08 18:13:27,039 - MatrixReducer - INFO - 
+[36mProcessing matrix with window size 10[0m
+2025-02-08 18:13:27,509 - MatrixReducer - INFO - 
+[36mApplying ppmi normalization[0m
+2025-02-08 18:13:27,510 - MatrixReducer - INFO - [36mApplying ppmi normalization...[0m
+2025-02-08 18:13:28,508 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:13:28,508 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:13:32,325 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:13:32,350 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:13:32,350 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:13:42,599 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:13:42,683 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:13:42,684 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:14:34,447 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:14:34,585 - MatrixReducer - INFO - 
+[36mApplying tfidf normalization[0m
+2025-02-08 18:14:34,585 - MatrixReducer - INFO - [36mApplying tfidf normalization...[0m
+2025-02-08 18:14:34,642 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:14:34,642 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:14:38,882 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:14:38,914 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:14:38,915 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:14:47,975 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:14:48,019 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:14:48,019 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:15:19,484 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:15:19,628 - MatrixReducer - INFO - 
+[36mApplying row_normalize normalization[0m
+2025-02-08 18:15:19,629 - MatrixReducer - INFO - [36mApplying row_normalize normalization...[0m
+2025-02-08 18:15:19,630 - MatrixReducer - ERROR - [31mNormalization failed: 'ndarray' object has no attribute 'A'[0m
+2025-02-08 18:15:19,630 - MatrixReducer - ERROR - [31mProcessing failed: 'ndarray' object has no attribute 'A'[0m

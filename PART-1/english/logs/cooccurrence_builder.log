@@ -1,0 +1,20 @@
+2025-02-08 20:45:13,138 - CooccurrenceBuilder - INFO - [32mGPU Memory: 3.23GB free / 4.00GB total[0m
+2025-02-08 20:45:13,141 - CooccurrenceBuilder - INFO - [36mLoading tokenized corpus from ./processed_data/tokenized_corpus.pkl[0m
+2025-02-08 20:45:13,382 - CooccurrenceBuilder - INFO - [36mCounting word frequencies...[0m
+2025-02-08 20:45:13,675 - CooccurrenceBuilder - INFO - [32mVocabulary size: 23496[0m
+2025-02-08 20:45:13,704 - CooccurrenceBuilder - INFO - [36mProcessing window size 2[0m
+2025-02-08 20:45:13,705 - CooccurrenceBuilder - INFO - [36mBuilding co-occurrence matrix with window size 2...[0m
+2025-02-08 20:45:17,380 - CooccurrenceBuilder - INFO - [32mMatrix shape: (23496, 23496), Non-zero elements: 2786295[0m
+2025-02-08 20:45:18,676 - CooccurrenceBuilder - INFO - [36mProcessing window size 4[0m
+2025-02-08 20:45:18,676 - CooccurrenceBuilder - INFO - [36mBuilding co-occurrence matrix with window size 4...[0m
+2025-02-08 20:45:21,103 - CooccurrenceBuilder - INFO - [32mMatrix shape: (23496, 23496), Non-zero elements: 4400894[0m
+2025-02-08 20:45:23,125 - CooccurrenceBuilder - INFO - [36mProcessing window size 6[0m
+2025-02-08 20:45:23,125 - CooccurrenceBuilder - INFO - [36mBuilding co-occurrence matrix with window size 6...[0m
+2025-02-08 20:45:26,609 - CooccurrenceBuilder - INFO - [32mMatrix shape: (23496, 23496), Non-zero elements: 5284123[0m
+2025-02-08 20:45:28,952 - CooccurrenceBuilder - INFO - [36mProcessing window size 8[0m
+2025-02-08 20:45:28,952 - CooccurrenceBuilder - INFO - [36mBuilding co-occurrence matrix with window size 8...[0m
+2025-02-08 20:45:32,281 - CooccurrenceBuilder - INFO - [32mMatrix shape: (23496, 23496), Non-zero elements: 5749313[0m
+2025-02-08 20:45:34,840 - CooccurrenceBuilder - INFO - [36mProcessing window size 10[0m
+2025-02-08 20:45:34,840 - CooccurrenceBuilder - INFO - [36mBuilding co-occurrence matrix with window size 10...[0m
+2025-02-08 20:45:38,238 - CooccurrenceBuilder - INFO - [32mMatrix shape: (23496, 23496), Non-zero elements: 5981710[0m
+2025-02-08 20:45:40,020 - CooccurrenceBuilder - INFO - [32mAll matrices processed in 27.70 seconds[0m

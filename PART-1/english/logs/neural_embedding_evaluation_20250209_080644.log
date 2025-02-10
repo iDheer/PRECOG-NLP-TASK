@@ -1,0 +1,29 @@
+2025-02-09 08:06:46,226 - NeuralEmbeddingEvaluator - INFO - [32mUsing GPU with 4.29GB memory[0m
+2025-02-09 08:06:46,230 - NeuralEmbeddingEvaluator - INFO - 
+[36mEvaluating embeddings for pretrained_models/neural_embeddings.bin/glove.6B.100d.txt[0m
+2025-02-09 08:06:46,232 - NeuralEmbeddingEvaluator - INFO - Loading neural embeddings from pretrained_models/neural_embeddings.bin/glove.6B.100d.txt
+2025-02-09 08:07:23,722 - NeuralEmbeddingEvaluator - INFO - Loaded embeddings with shape: (400000, 100)
+2025-02-09 08:32:17,989 - NeuralEmbeddingEvaluator - INFO - Saved evaluation summary to CSV and JSON in ./neural_evaluation_results/glove.6B.100d
+2025-02-09 08:32:22,396 - NeuralEmbeddingEvaluator - INFO - 
+[32mEvaluation completed in 1536.17 seconds[0m
+2025-02-09 08:32:22,409 - NeuralEmbeddingEvaluator - INFO - 
+[36mEvaluating embeddings for pretrained_models/neural_embeddings.bin/glove.6B.200d.txt[0m
+2025-02-09 08:32:22,411 - NeuralEmbeddingEvaluator - INFO - Loading neural embeddings from pretrained_models/neural_embeddings.bin/glove.6B.200d.txt
+2025-02-09 08:33:47,607 - NeuralEmbeddingEvaluator - INFO - Loaded embeddings with shape: (400000, 200)
+2025-02-09 09:10:45,839 - NeuralEmbeddingEvaluator - INFO - Saved evaluation summary to CSV and JSON in ./neural_evaluation_results/glove.6B.200d
+2025-02-09 09:10:46,470 - NeuralEmbeddingEvaluator - INFO - 
+[32mEvaluation completed in 2304.06 seconds[0m
+2025-02-09 09:10:46,615 - NeuralEmbeddingEvaluator - INFO - 
+[36mEvaluating embeddings for pretrained_models/neural_embeddings.bin/glove.6B.300d.txt[0m
+2025-02-09 09:10:46,619 - NeuralEmbeddingEvaluator - INFO - Loading neural embeddings from pretrained_models/neural_embeddings.bin/glove.6B.300d.txt
+2025-02-09 09:12:55,881 - NeuralEmbeddingEvaluator - INFO - Loaded embeddings with shape: (400000, 300)
+2025-02-09 09:51:23,649 - NeuralEmbeddingEvaluator - INFO - Saved evaluation summary to CSV and JSON in ./neural_evaluation_results/glove.6B.300d
+2025-02-09 09:51:24,288 - NeuralEmbeddingEvaluator - INFO - 
+[32mEvaluation completed in 2437.67 seconds[0m
+2025-02-09 09:51:24,364 - NeuralEmbeddingEvaluator - INFO - 
+[36mEvaluating embeddings for pretrained_models/neural_embeddings.bin/glove.6B.50d.txt[0m
+2025-02-09 09:51:24,367 - NeuralEmbeddingEvaluator - INFO - Loading neural embeddings from pretrained_models/neural_embeddings.bin/glove.6B.50d.txt
+2025-02-09 09:51:45,849 - NeuralEmbeddingEvaluator - INFO - Loaded embeddings with shape: (400000, 50)
+2025-02-09 10:18:21,492 - NeuralEmbeddingEvaluator - INFO - Saved evaluation summary to CSV and JSON in ./neural_evaluation_results/glove.6B.50d
+2025-02-09 10:18:22,056 - NeuralEmbeddingEvaluator - INFO - 
+[32mEvaluation completed in 1618.17 seconds[0m

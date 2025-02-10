@@ -1,0 +1,13 @@
+2025-02-09 12:21:03,070 - HindiGPUTokenizer - INFO - [32mGPU acceleration enabled (for other tasks); tokenization will run on CPU via Stanza[0m
+2025-02-09 12:22:15,904 - HindiGPUTokenizer - INFO - Initialized Stanza for Hindi tokenization
+2025-02-09 12:22:15,904 - HindiGPUTokenizer - INFO - [32mStarting Hindi corpus processing[0m
+2025-02-09 12:22:15,905 - HindiGPUTokenizer - INFO - [36mLoading corpus from ./dataset/raw/hindi_300k/hindi_news_2022_300k-sentences.txt[0m
+2025-02-09 12:22:15,952 - HindiGPUTokenizer - ERROR - [31mCorpus processing failed: ['./dataset/raw/hindi_300k/hindi_news_2022_300k-sentences.txt'] could not be resolved to any files[0m
+2025-02-09 12:26:43,543 - HindiGPUTokenizer - INFO - [32mGPU acceleration enabled (for other tasks); tokenization will run on CPU via Stanza[0m
+2025-02-09 12:27:01,293 - HindiGPUTokenizer - INFO - Initialized Stanza for Hindi tokenization
+2025-02-09 12:27:01,293 - HindiGPUTokenizer - INFO - [32mStarting Hindi corpus processing[0m
+2025-02-09 12:27:01,295 - HindiGPUTokenizer - INFO - [36mLoading corpus from ./dataset/raw/hindi_300k/hin_news_2022_300K-sentences.txt[0m
+2025-02-09 12:27:02,479 - HindiGPUTokenizer - INFO - [36mCleaning text on GPU[0m
+2025-02-09 12:27:22,326 - HindiGPUTokenizer - INFO - [32mProcessing complete in 21.03 seconds[0m
+2025-02-09 12:27:22,326 - HindiGPUTokenizer - INFO - [32mTokenized corpus saved to processed_data/hindi_tokenized_corpus.pkl[0m
+2025-02-09 12:27:22,327 - HindiGPUTokenizer - INFO - Statistics: {'total_sentences': 297591, 'total_tokens': 0, 'avg_tokens_per_sentence': 0.0}

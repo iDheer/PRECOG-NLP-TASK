@@ -1,0 +1,25 @@
+2025-02-08 19:11:10,786 - EmbeddingEvaluator - INFO - Using device: cuda
+2025-02-08 19:11:10,803 - EmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d100.npy
+2025-02-08 19:11:26,196 - EmbeddingEvaluator - INFO - K-Means Cluster Composition: Counter({np.int32(0): 302, np.int32(7): 193, np.int32(5): 190, np.int32(4): 135, np.int32(9): 46, np.int32(8): 41, np.int32(2): 32, np.int32(6): 28, np.int32(1): 22, np.int32(3): 11})
+2025-02-08 19:11:26,197 - EmbeddingEvaluator - INFO - HDBSCAN Cluster Composition: Counter({np.int64(-1): 687, np.int64(4): 261, np.int64(1): 23, np.int64(3): 12, np.int64(2): 7, np.int64(0): 5, np.int64(5): 5})
+2025-02-08 19:11:28,626 - EmbeddingEvaluator - INFO - Saved parameter summary to evaluation_results/embeddings_w10_ppmi_d100/parameter_summary.json
+2025-02-08 19:11:28,627 - EmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d300.npy
+2025-02-08 19:11:32,258 - EmbeddingEvaluator - INFO - K-Means Cluster Composition: Counter({np.int32(3): 334, np.int32(7): 284, np.int32(9): 170, np.int32(5): 64, np.int32(2): 56, np.int32(8): 39, np.int32(6): 28, np.int32(4): 12, np.int32(1): 7, np.int32(0): 6})
+2025-02-08 19:11:32,259 - EmbeddingEvaluator - INFO - HDBSCAN Cluster Composition: Counter({np.int64(-1): 832, np.int64(0): 157, np.int64(1): 11})
+2025-02-08 19:11:33,517 - EmbeddingEvaluator - INFO - Saved parameter summary to evaluation_results/embeddings_w10_ppmi_d300/parameter_summary.json
+2025-02-08 19:11:33,517 - EmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d50.npy
+2025-02-08 19:11:37,248 - EmbeddingEvaluator - INFO - K-Means Cluster Composition: Counter({np.int32(3): 316, np.int32(0): 195, np.int32(4): 142, np.int32(9): 125, np.int32(2): 91, np.int32(8): 45, np.int32(6): 33, np.int32(1): 21, np.int32(5): 20, np.int32(7): 12})
+2025-02-08 19:11:37,249 - EmbeddingEvaluator - INFO - HDBSCAN Cluster Composition: Counter({np.int64(-1): 661, np.int64(5): 277, np.int64(6): 13, np.int64(1): 12, np.int64(4): 12, np.int64(2): 7, np.int64(3): 6, np.int64(7): 6, np.int64(0): 6})
+2025-02-08 19:11:38,013 - EmbeddingEvaluator - INFO - Saved parameter summary to evaluation_results/embeddings_w10_ppmi_d50/parameter_summary.json
+2025-02-08 19:11:38,014 - EmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_row_normalize_d100.npy
+2025-02-08 19:11:38,072 - EmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w10_row_normalize_d100: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:11:41,004 - EmbeddingEvaluator - INFO - K-Means Cluster Composition: Counter({np.int32(2): 421, np.int32(3): 337, np.int32(0): 100, np.int32(7): 68, np.int32(6): 33, np.int32(5): 15, np.int32(1): 13, np.int32(8): 5, np.int32(4): 5, np.int32(9): 3})
+2025-02-08 19:11:41,005 - EmbeddingEvaluator - INFO - HDBSCAN Cluster Composition: Counter({np.int64(2): 604, np.int64(-1): 371, np.int64(3): 11, np.int64(0): 8, np.int64(1): 6})
+2025-02-08 19:11:40,530 - EmbeddingEvaluator - INFO - Saved parameter summary to evaluation_results/embeddings_w10_row_normalize_d100/parameter_summary.json
+2025-02-08 19:11:40,531 - EmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_row_normalize_d300.npy
+2025-02-08 19:11:40,681 - EmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w10_row_normalize_d300: invalid literal for int() with base 10: 'ormalize'

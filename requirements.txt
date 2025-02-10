@@ -1,0 +1,3 @@
+pip install requests gdown tqdm torch torchvision torchaudio matplotlib scikit-learn gensim numpy transformers cupy-cuda12x spacy stanza
+
+python3 -m spacy download en_core_web_sm

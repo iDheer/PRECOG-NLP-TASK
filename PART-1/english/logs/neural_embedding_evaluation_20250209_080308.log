@@ -1,0 +1,6 @@
+2025-02-09 08:03:10,236 - NeuralEmbeddingEvaluator - INFO - [32mUsing GPU with 4.29GB memory[0m
+2025-02-09 08:03:10,240 - NeuralEmbeddingEvaluator - INFO - 
+[36mEvaluating embeddings for pretrained_models/neural_embeddings.bin/glove.6B.100d.txt[0m
+2025-02-09 08:03:10,242 - NeuralEmbeddingEvaluator - INFO - Loading neural embeddings from pretrained_models/neural_embeddings.bin/glove.6B.100d.txt
+2025-02-09 08:03:10,243 - NeuralEmbeddingEvaluator - INFO - Converting pretrained_models/neural_embeddings.bin/glove.6B.100d.txt to word2vec format...
+2025-02-09 08:04:49,722 - NeuralEmbeddingEvaluator - INFO - Loaded embeddings with shape: (400000, 100)

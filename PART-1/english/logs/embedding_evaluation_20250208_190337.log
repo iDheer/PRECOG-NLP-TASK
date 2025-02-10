@@ -1,0 +1,4 @@
+2025-02-08 19:03:39,338 - EmbeddingEvaluator - INFO - [32mUsing device: cuda[0m
+2025-02-08 19:03:39,349 - EmbeddingEvaluator - INFO - [36mLoading SimLex-999...[0m
+2025-02-08 19:03:39,685 - EmbeddingEvaluator - ERROR - [31mFailed to load evaluation datasets: HTTP Error 404: Not Found[0m
+2025-02-08 19:03:39,685 - EmbeddingEvaluator - ERROR - [31mEvaluation failed: HTTP Error 404: Not Found[0m

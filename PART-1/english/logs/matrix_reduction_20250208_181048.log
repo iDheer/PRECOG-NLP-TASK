@@ -1,0 +1,23 @@
+2025-02-08 18:10:49,894 - MatrixReducer - INFO - [32mGPU Memory: 3.23GB free / 4.00GB total[0m
+2025-02-08 18:10:49,898 - MatrixReducer - INFO - 
+[36mProcessing matrix with window size 10[0m
+2025-02-08 18:10:50,365 - MatrixReducer - INFO - 
+[36mApplying ppmi normalization[0m
+2025-02-08 18:10:50,365 - MatrixReducer - INFO - [36mApplying ppmi normalization...[0m
+2025-02-08 18:10:54,362 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:10:54,363 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:10:58,510 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:10:58,536 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:10:58,537 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:11:07,127 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:11:07,170 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:11:07,170 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:11:46,383 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:11:46,496 - MatrixReducer - INFO - 
+[36mApplying tfidf normalization[0m
+2025-02-08 18:11:46,497 - MatrixReducer - INFO - [36mApplying tfidf normalization...[0m
+2025-02-08 18:11:56,874 - MatrixReducer - ERROR - [31mNormalization failed: dtype is not supported: bool[0m
+2025-02-08 18:11:56,875 - MatrixReducer - ERROR - [31mProcessing failed: dtype is not supported: bool[0m

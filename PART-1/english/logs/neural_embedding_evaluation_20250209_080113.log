@@ -1,0 +1,5 @@
+2025-02-09 08:01:15,133 - NeuralEmbeddingEvaluator - INFO - [32mUsing GPU with 4.29GB memory[0m
+2025-02-09 08:01:15,138 - NeuralEmbeddingEvaluator - INFO - 
+[36mEvaluating embeddings for pretrained_models/neural_embeddings.bin/glove.6B.100d.txt[0m
+2025-02-09 08:01:15,139 - NeuralEmbeddingEvaluator - INFO - Loading neural embeddings from pretrained_models/neural_embeddings.bin/glove.6B.100d.txt
+2025-02-09 08:01:15,141 - NeuralEmbeddingEvaluator - ERROR - [31mFailed to load neural embeddings: invalid literal for int() with base 10: 'the'[0m

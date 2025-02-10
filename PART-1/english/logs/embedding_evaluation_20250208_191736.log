@@ -1,0 +1,71 @@
+2025-02-08 19:17:38,158 - EnhancedEmbeddingEvaluator - INFO - [32mUsing GPU with 4.29GB memory[0m
+2025-02-08 19:17:38,173 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d100.npy
+2025-02-08 19:17:38,209 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d300.npy
+2025-02-08 19:17:38,312 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d50.npy
+2025-02-08 19:17:38,333 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_row_normalize_d100.npy
+2025-02-08 19:17:38,367 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w10_row_normalize_d100: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:38,368 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_row_normalize_d300.npy
+2025-02-08 19:17:38,463 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w10_row_normalize_d300: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:38,463 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_row_normalize_d50.npy
+2025-02-08 19:17:38,493 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w10_row_normalize_d50: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:38,493 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_tfidf_d100.npy
+2025-02-08 19:17:38,542 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_tfidf_d300.npy
+2025-02-08 19:17:38,678 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_tfidf_d50.npy
+2025-02-08 19:17:38,706 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_ppmi_d100.npy
+2025-02-08 19:17:38,758 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_ppmi_d300.npy
+2025-02-08 19:17:38,902 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_ppmi_d50.npy
+2025-02-08 19:17:38,932 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_row_normalize_d100.npy
+2025-02-08 19:17:38,980 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w2_row_normalize_d100: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:38,981 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_row_normalize_d300.npy
+2025-02-08 19:17:39,113 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w2_row_normalize_d300: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:39,113 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_row_normalize_d50.npy
+2025-02-08 19:17:39,137 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w2_row_normalize_d50: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:39,137 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_tfidf_d100.npy
+2025-02-08 19:17:39,185 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_tfidf_d300.npy
+2025-02-08 19:17:39,337 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_tfidf_d50.npy
+2025-02-08 19:17:39,363 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_ppmi_d100.npy
+2025-02-08 19:17:39,399 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_ppmi_d300.npy
+2025-02-08 19:17:39,492 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_ppmi_d50.npy
+2025-02-08 19:17:39,518 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_row_normalize_d100.npy
+2025-02-08 19:17:39,552 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w5_row_normalize_d100: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:39,552 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_row_normalize_d300.npy
+2025-02-08 19:17:39,643 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w5_row_normalize_d300: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:39,643 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_row_normalize_d50.npy
+2025-02-08 19:17:39,661 - EnhancedEmbeddingEvaluator - ERROR - Error parsing parameters from filename embeddings_w5_row_normalize_d50: invalid literal for int() with base 10: 'ormalize'
+2025-02-08 19:17:39,662 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_tfidf_d100.npy
+2025-02-08 19:17:39,694 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_tfidf_d300.npy
+2025-02-08 19:17:39,785 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w5_tfidf_d50.npy
+2025-02-08 19:17:42,651 - EnhancedEmbeddingEvaluator - INFO - Saved evaluation summary CSV to evaluation_results/evaluation_summary.csv
+2025-02-08 19:17:42,652 - EnhancedEmbeddingEvaluator - INFO - 
+[32mEvaluation Summary:[0m
+2025-02-08 19:17:42,652 - EnhancedEmbeddingEvaluator - INFO - Processing Time: 4.49 seconds
+2025-02-08 19:17:42,652 - EnhancedEmbeddingEvaluator - INFO - Errors Encountered: 0
+2025-02-08 19:17:42,653 - EnhancedEmbeddingEvaluator - INFO - Warnings Generated: 0
+2025-02-08 19:17:42,653 - EnhancedEmbeddingEvaluator - INFO - [32mEvaluation completed successfully![0m

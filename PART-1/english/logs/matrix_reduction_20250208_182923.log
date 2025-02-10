@@ -1,0 +1,144 @@
+2025-02-08 18:29:25,413 - MatrixReducer - INFO - [32mGPU Memory: 3.23GB free / 4.00GB total[0m
+2025-02-08 18:29:25,419 - MatrixReducer - INFO - 
+[36mProcessing matrix with window size 10[0m
+2025-02-08 18:29:25,914 - MatrixReducer - INFO - 
+[36mApplying ppmi normalization[0m
+2025-02-08 18:29:25,914 - MatrixReducer - INFO - [36mApplying ppmi normalization...[0m
+2025-02-08 18:29:27,155 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:29:27,156 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:29:33,666 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:29:33,694 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:29:33,696 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:29:42,180 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:29:42,226 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:29:42,226 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:30:23,390 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:30:23,518 - MatrixReducer - INFO - 
+[36mApplying tfidf normalization[0m
+2025-02-08 18:30:23,518 - MatrixReducer - INFO - [36mApplying tfidf normalization...[0m
+2025-02-08 18:30:23,570 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:30:23,571 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:30:27,618 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:30:27,648 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:30:27,649 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:30:36,354 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:30:36,403 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:30:36,403 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:31:05,330 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:31:05,452 - MatrixReducer - INFO - 
+[36mApplying row_normalize normalization[0m
+2025-02-08 18:31:05,452 - MatrixReducer - INFO - [36mApplying row_normalize normalization...[0m
+2025-02-08 18:31:05,469 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:31:05,470 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:31:08,193 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:31:08,217 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:31:08,218 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:31:13,979 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:31:14,023 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:31:14,023 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:31:37,479 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:31:37,600 - MatrixReducer - INFO - 
+[36mProcessing matrix with window size 2[0m
+2025-02-08 18:31:37,739 - MatrixReducer - INFO - 
+[36mApplying ppmi normalization[0m
+2025-02-08 18:31:37,739 - MatrixReducer - INFO - [36mApplying ppmi normalization...[0m
+2025-02-08 18:31:42,175 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:31:42,175 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:31:43,970 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:31:43,994 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:31:43,995 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:31:48,069 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:31:48,117 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:31:48,117 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:32:09,865 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:32:09,995 - MatrixReducer - INFO - 
+[36mApplying tfidf normalization[0m
+2025-02-08 18:32:09,995 - MatrixReducer - INFO - [36mApplying tfidf normalization...[0m
+2025-02-08 18:32:10,016 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:32:10,017 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:32:11,820 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:32:11,846 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:32:11,847 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:32:15,434 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:32:15,476 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:32:15,477 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:32:31,306 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:32:31,433 - MatrixReducer - INFO - 
+[36mApplying row_normalize normalization[0m
+2025-02-08 18:32:31,433 - MatrixReducer - INFO - [36mApplying row_normalize normalization...[0m
+2025-02-08 18:32:31,436 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:32:31,437 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:32:32,842 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:32:32,869 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:32:32,869 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:32:35,456 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:32:35,501 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:32:35,502 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:32:50,436 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:32:50,555 - MatrixReducer - INFO - 
+[36mProcessing matrix with window size 5[0m
+2025-02-08 18:32:50,835 - MatrixReducer - INFO - 
+[36mApplying ppmi normalization[0m
+2025-02-08 18:32:50,835 - MatrixReducer - INFO - [36mApplying ppmi normalization...[0m
+2025-02-08 18:32:51,316 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:32:51,316 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:32:54,134 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:32:54,157 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:32:54,158 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:32:59,945 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:32:59,990 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:32:59,990 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:33:30,910 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:33:31,031 - MatrixReducer - INFO - 
+[36mApplying tfidf normalization[0m
+2025-02-08 18:33:31,032 - MatrixReducer - INFO - [36mApplying tfidf normalization...[0m
+2025-02-08 18:33:31,114 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:33:31,114 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:33:33,119 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:33:33,145 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:33:33,145 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:33:39,329 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:33:39,373 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:33:39,373 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:34:04,288 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:34:04,412 - MatrixReducer - INFO - 
+[36mApplying row_normalize normalization[0m
+2025-02-08 18:34:04,412 - MatrixReducer - INFO - [36mApplying row_normalize normalization...[0m
+2025-02-08 18:34:04,428 - MatrixReducer - INFO - 
+[36mReducing to d=50 dimensions[0m
+2025-02-08 18:34:04,428 - MatrixReducer - INFO - [36mPerforming SVD with d=50...[0m
+2025-02-08 18:34:06,621 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 50)[0m
+2025-02-08 18:34:06,652 - MatrixReducer - INFO - 
+[36mReducing to d=100 dimensions[0m
+2025-02-08 18:34:06,653 - MatrixReducer - INFO - [36mPerforming SVD with d=100...[0m
+2025-02-08 18:34:11,227 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 100)[0m
+2025-02-08 18:34:11,274 - MatrixReducer - INFO - 
+[36mReducing to d=300 dimensions[0m
+2025-02-08 18:34:11,274 - MatrixReducer - INFO - [36mPerforming SVD with d=300...[0m
+2025-02-08 18:34:32,933 - MatrixReducer - INFO - [32mSVD complete. Embedding shape: (25399, 300)[0m
+2025-02-08 18:34:33,072 - MatrixReducer - INFO - 
+[32mAll processing complete in 317.22 seconds[0m

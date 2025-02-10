@@ -1,0 +1,5 @@
+2025-02-10 16:08:58,589 - GPUTokenizer - INFO - [32mGPU acceleration enabled for spaCy[0m
+2025-02-10 16:09:40,074 - GPUTokenizer - INFO - Loaded spaCy model: en_core_web_sm
+2025-02-10 16:09:40,075 - GPUTokenizer - INFO - [32mStarting corpus processing[0m
+2025-02-10 16:09:40,076 - GPUTokenizer - INFO - [36mLoading corpus from ./dataset/raw/eng_news_2024_300k-sentences.txt[0m
+2025-02-10 16:09:40,105 - GPUTokenizer - ERROR - [31mCorpus processing failed: ['./dataset/raw/eng_news_2024_300k-sentences.txt'] could not be resolved to any files[0m

@@ -1,0 +1,128 @@
+2025-02-08 20:57:50,318 - EnhancedEmbeddingEvaluator - INFO - [32mUsing GPU with 4.29GB memory[0m
+2025-02-08 20:57:50,399 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d100.npy
+2025-02-08 20:58:03,243 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d200.npy
+2025-02-08 20:58:16,798 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d300.npy
+2025-02-08 20:58:30,063 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_ppmi_d50.npy
+2025-02-08 20:58:42,540 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_rownormalize_d100.npy
+2025-02-08 20:58:55,612 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_rownormalize_d200.npy
+2025-02-08 20:59:07,313 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_rownormalize_d300.npy
+2025-02-08 20:59:21,732 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_rownormalize_d50.npy
+2025-02-08 20:59:32,397 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_tfidf_d100.npy
+2025-02-08 20:59:45,843 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_tfidf_d200.npy
+2025-02-08 20:59:57,528 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_tfidf_d300.npy
+2025-02-08 21:00:11,406 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w10_tfidf_d50.npy
+2025-02-08 21:00:24,557 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_ppmi_d100.npy
+2025-02-08 21:00:36,077 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_ppmi_d200.npy
+2025-02-08 21:00:49,261 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_ppmi_d300.npy
+2025-02-08 21:01:02,257 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_ppmi_d50.npy
+2025-02-08 21:01:14,554 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_rownormalize_d100.npy
+2025-02-08 21:01:27,373 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_rownormalize_d200.npy
+2025-02-08 21:01:39,323 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_rownormalize_d300.npy
+2025-02-08 21:01:53,661 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_rownormalize_d50.npy
+2025-02-08 21:02:04,990 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_tfidf_d100.npy
+2025-02-08 21:02:18,073 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_tfidf_d200.npy
+2025-02-08 21:02:30,851 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_tfidf_d300.npy
+2025-02-08 21:02:44,292 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w2_tfidf_d50.npy
+2025-02-08 21:02:56,780 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_ppmi_d100.npy
+2025-02-08 21:03:08,098 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_ppmi_d200.npy
+2025-02-08 21:03:21,336 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_ppmi_d300.npy
+2025-02-08 21:03:34,817 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_ppmi_d50.npy
+2025-02-08 21:03:47,051 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_rownormalize_d100.npy
+2025-02-08 21:03:59,726 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_rownormalize_d200.npy
+2025-02-08 21:04:11,623 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_rownormalize_d300.npy
+2025-02-08 21:04:25,423 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_rownormalize_d50.npy
+2025-02-08 21:04:36,782 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_tfidf_d100.npy
+2025-02-08 21:04:49,078 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_tfidf_d200.npy
+2025-02-08 21:05:02,802 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_tfidf_d300.npy
+2025-02-08 21:05:15,527 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w4_tfidf_d50.npy
+2025-02-08 21:05:28,471 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_ppmi_d100.npy
+2025-02-08 21:05:40,264 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_ppmi_d200.npy
+2025-02-08 21:05:53,829 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_ppmi_d300.npy
+2025-02-08 21:06:08,937 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_ppmi_d50.npy
+2025-02-08 21:06:20,889 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_rownormalize_d100.npy
+2025-02-08 21:06:33,438 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_rownormalize_d200.npy
+2025-02-08 21:06:45,226 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_rownormalize_d300.npy
+2025-02-08 21:06:59,254 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_rownormalize_d50.npy
+2025-02-08 21:07:11,404 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_tfidf_d100.npy
+2025-02-08 21:07:22,202 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_tfidf_d200.npy
+2025-02-08 21:07:35,883 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_tfidf_d300.npy
+2025-02-08 21:07:49,438 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w6_tfidf_d50.npy
+2025-02-08 21:08:01,556 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_ppmi_d100.npy
+2025-02-08 21:08:13,264 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_ppmi_d200.npy
+2025-02-08 21:08:26,604 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_ppmi_d300.npy
+2025-02-08 21:08:40,769 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_ppmi_d50.npy
+2025-02-08 21:08:51,983 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_rownormalize_d100.npy
+2025-02-08 21:09:04,673 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_rownormalize_d200.npy
+2025-02-08 21:09:16,041 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_rownormalize_d300.npy
+2025-02-08 21:09:30,420 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_rownormalize_d50.npy
+2025-02-08 21:09:42,723 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_tfidf_d100.npy
+2025-02-08 21:09:53,594 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_tfidf_d200.npy
+2025-02-08 21:10:07,091 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_tfidf_d300.npy
+2025-02-08 21:10:19,723 - EnhancedEmbeddingEvaluator - INFO - 
+Evaluating embeddings_w8_tfidf_d50.npy
+2025-02-08 21:10:36,792 - EnhancedEmbeddingEvaluator - INFO - Saved evaluation summary CSV to evaluation_results/evaluation_summary.csv
+2025-02-08 21:10:36,792 - EnhancedEmbeddingEvaluator - INFO - 
+[32mEvaluation Summary:[0m
+2025-02-08 21:10:36,793 - EnhancedEmbeddingEvaluator - INFO - Processing Time: 799.57 seconds
+2025-02-08 21:10:36,793 - EnhancedEmbeddingEvaluator - INFO - Errors Encountered: 0
+2025-02-08 21:10:36,793 - EnhancedEmbeddingEvaluator - INFO - Warnings Generated: 0
+2025-02-08 21:10:36,793 - EnhancedEmbeddingEvaluator - INFO - [32mEvaluation completed successfully![0m
